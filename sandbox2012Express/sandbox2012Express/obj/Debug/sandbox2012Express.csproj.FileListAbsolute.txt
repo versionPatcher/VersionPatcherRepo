@@ -1,0 +1,6 @@
+c:\users\alon mannor\documents\visual studio 2012\Projects\sandbox2012Express\sandbox2012Express\bin\Debug\sandbox2012Express.exe.config
+c:\users\alon mannor\documents\visual studio 2012\Projects\sandbox2012Express\sandbox2012Express\bin\Debug\sandbox2012Express.exe
+c:\users\alon mannor\documents\visual studio 2012\Projects\sandbox2012Express\sandbox2012Express\bin\Debug\sandbox2012Express.pdb
+c:\users\alon mannor\documents\visual studio 2012\Projects\sandbox2012Express\sandbox2012Express\obj\Debug\sandbox2012Express.csprojResolveAssemblyReference.cache
+c:\users\alon mannor\documents\visual studio 2012\Projects\sandbox2012Express\sandbox2012Express\obj\Debug\sandbox2012Express.exe
+c:\users\alon mannor\documents\visual studio 2012\Projects\sandbox2012Express\sandbox2012Express\obj\Debug\sandbox2012Express.pdb
